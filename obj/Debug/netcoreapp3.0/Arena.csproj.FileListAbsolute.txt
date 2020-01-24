@@ -1,0 +1,11 @@
+C:\Users\Lexicon\source\repos\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.csprojAssemblyReference.cache
+C:\Users\Lexicon\source\repos\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.AssemblyInfoInputs.cache
+C:\Users\Lexicon\source\repos\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.AssemblyInfo.cs
+C:\Users\Lexicon\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.exe
+C:\Users\Lexicon\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.deps.json
+C:\Users\Lexicon\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.runtimeconfig.json
+C:\Users\Lexicon\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.runtimeconfig.dev.json
+C:\Users\Lexicon\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.dll
+C:\Users\Lexicon\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.pdb
+C:\Users\Lexicon\source\repos\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.dll
+C:\Users\Lexicon\source\repos\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.pdb
